@@ -3,3 +3,6 @@ Este es un documento de Texto de la Clase 2 Ejercicio Nro. 3
 Se agrego localmente.
 
 En este archivo tambien se realiza el Ejercicio Nro. 5 (modificación en GitHub, no localmente)
+
+En esta nueva linea se hara una modificación en el archivo desde la interfaz GitHub y antes de hacer el Pull
+se modificara algo distinto en mi copia local (Ejercicio Nro 7).

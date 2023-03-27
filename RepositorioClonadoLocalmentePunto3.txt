@@ -1,0 +1,17 @@
+NOTEBOOK DELL@DESKTOP-1R7TD0O MINGW64 /d/AlmadaRodríguez/JAVA/MisProyectos
+$ git config --global user.name "palmada271"
+
+NOTEBOOK DELL@DESKTOP-1R7TD0O MINGW64 /d/AlmadaRodríguez/JAVA/MisProyectos
+$ git config --global user.email "almadarodriguzpablo@gmail.com"
+
+NOTEBOOK DELL@DESKTOP-1R7TD0O MINGW64 /d/AlmadaRodríguez/JAVA/MisProyectos
+$ git clone https://github.com/palmada271/RepositorioPrimeroClase2.git
+Cloning into 'RepositorioPrimeroClase2'...
+warning: You appear to have cloned an empty repository.
+
+NOTEBOOK DELL@DESKTOP-1R7TD0O MINGW64 /d/AlmadaRodríguez/JAVA/MisProyectos
+$ ^C
+
+NOTEBOOK DELL@DESKTOP-1R7TD0O MINGW64 /d/AlmadaRodríguez/JAVA/MisProyectos
+$
+
